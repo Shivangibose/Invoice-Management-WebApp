@@ -9,7 +9,7 @@ This is a Full Stack Project.
 - For Backend SQL database is used to store the invoice details of customers
 - JDBC connecting SQL to java 
 - ReactJs to make the Web app
-- Material UI for feating the FrontEnd
+- Material UI for creating the FrontEnd
 
 **Operations**
 - CRUD operations enabled that includes ADD, EDIT, DELETE .
