@@ -1,0 +1,17 @@
+.foot
+{
+    height: 8vh;
+    background-color: #2d4250;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+a{
+    color:#1b83b1 ;
+    font-size: 1rem;
+}
+h6{
+    color: #fff;
+    font-size: 1rem;
+}

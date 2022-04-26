@@ -1,0 +1,28 @@
+.body
+{
+    height: 10vh;
+    background-color:#283d4a ;
+   display: flex;
+   overflow: hidden;
+   border-radius: none;
+   position: relative;
+}
+
+.body1
+{
+    flex: 2;
+    padding: 1rem;
+    
+}
+.body2
+{
+    flex: 1;
+    padding: 1rem;
+    
+}
+.body3
+{
+    flex: 2;
+    padding:1rem;
+    
+}

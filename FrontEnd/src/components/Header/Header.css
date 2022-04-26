@@ -1,0 +1,33 @@
+.head
+{
+    height: 10vh;
+    background-color: #2d4250;
+    display: flex;
+    padding: 0.6rem;
+    position: relative;
+    
+}
+.head1
+{
+    flex:1;
+    margin: 1rem 0 0 2rem;
+    background-color: #2d4250;
+}
+
+.head2
+{
+    flex: 1.5;
+    margin: 1rem 0 0 2rem;
+    background-color: #2d4250;
+}
+
+.ABC
+{
+    width: 18vw;
+    background-color: #2d4250;
+}
+.hrclogo
+{
+    width: 14vw;
+    background-color: #2d4250;
+}
